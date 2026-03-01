@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "c2bbc5a261fb446fb30b07d597b74ebe"
+	name: "DiggyPT#c2bbc5a2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

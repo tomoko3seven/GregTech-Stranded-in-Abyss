@@ -1,0 +1,6 @@
+
+[chopping]
+	#How many planks should be dropped when chopping a log? (Default: 4)
+	#Range: 1 ~ 8
+	plankCount = 4
+

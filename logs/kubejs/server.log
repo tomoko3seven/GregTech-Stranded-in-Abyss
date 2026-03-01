@@ -1,0 +1,20 @@
+[19:01:51] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:01:51] [INIT] Loaded plugins:
+[19:01:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:01:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[19:01:51] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[19:01:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[19:01:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[19:01:51] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:01:51] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[19:01:51] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[19:01:51] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[19:01:51] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[19:01:51] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[19:01:51] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[19:01:51] [INFO] Loaded script server_scripts:example.js in 0.0 s
+[19:01:51] [INFO] Loaded 1/1 KubeJS server scripts in 0.009 s with 0 errors and 0 warnings
+[19:01:51] [INFO] Scripts loaded
+[19:01:51] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[19:01:51] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[19:01:59] [INFO] Server resource reload complete!

@@ -1,0 +1,23 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-03-01 19:02:39 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-03-01 19:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2026-03-01 19:06:57 +0000",
+      "minecraft:snowy_taiga": "2026-03-01 19:02:40 +0000",
+      "minecraft:plains": "2026-03-01 19:09:05 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
