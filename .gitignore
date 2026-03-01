@@ -1,7 +1,8 @@
 # Ignore everything by default
 *
 
-# But include these folders
+# Include only these folders
+!.gitignore
 !kubejs/
 !resourcepacks/
 !shaderpacks/
@@ -10,5 +11,11 @@
 # Keep directory structure
 !*/
 
-# Don't ignore .gitignore itself
-!.gitignore
+# Explicitly ignore config files
+.minecraft/
+*.json
+*.txt
+*.yaml
+*.yml
+*.log
+*.css
