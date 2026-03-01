@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# But include these folders
+!kubejs/
+!resourcepacks/
+!shaderpacks/
+!mods/
+
+# Keep directory structure
+!*/
+
+# Don't ignore .gitignore itself
+!.gitignore
