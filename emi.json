@@ -1,6 +1,25 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:gtceu:magnetic_iron_rod",
+    "item:enderstorage:ender_pouch",
+    "item:factory_blocks:fan_malfunction",
+    {
+      "type": "item",
+      "id": "gtceu:magnetite_dust",
+      "amount": 29
+    },
+    "item:gtceu:magnetic_iron_ingot",
+    "item:gtceu:iron_minecart_wheels",
+    "item:gtceu:wetware_processor_mainframe",
+    "item:gtceu:wetware_processor_computer",
+    "item:gtceu:wetware_processor_assembly",
+    "item:gtceu:nano_processor",
+    {
+      "type": "fluid",
+      "id": "gtceu:uu_matter",
+      "amount": 0
+    },
     "item:minecraft:brown_glazed_terracotta",
     "item:ae2:crystal_resonance_generator",
     "item:ae2:dense_energy_cell{internalCurrentPower:1600000.0d,internalMaxPower:1600000.0d}",
