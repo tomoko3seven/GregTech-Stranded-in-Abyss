@@ -4,4 +4,4 @@
 Build large multi-blocks and try to squeeze every resource from this planet to successfully return home.
 (This modpack is designed for peaceful mode.)
 
-phoenix sucks ass and squeezers is a femboy 
+phoenix is a very smart and cool person and squeezers is a femboy 
