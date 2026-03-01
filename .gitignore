@@ -1,21 +1,38 @@
-# Ignore everything by default
+# 1. ROOT STRATEGY: Ignore everything by default
 *
 
-# Include only these folders
-!.gitignore
+# 2. WHITELISTED DIRECTORIES (Un-ignore these folders)
 !kubejs/
 !resourcepacks/
 !shaderpacks/
 !mods/
+!.github/
+!.vscode/
 
-# Keep directory structure
-!*/
+# 3. WHITELISTED CONTENTS (Allow files inside the folders above)
+!kubejs/**
+!resourcepacks/**
+!shaderpacks/**
+!mods/**
+!.github/**
+!.vscode/**
 
-# Explicitly ignore config files
-.minecraft/
-*.json
-*.txt
-*.yaml
-*.yml
-*.log
-*.css
+# 4. WHITELISTED ROOT FILES (Specific files to keep in the root)
+!.prettierrc
+!.gitignore
+!.eslintrc.json
+!README.md
+
+# 5. RE-IGNORE RULES (Block specific junk inside the whitelisted folders)
+# -- KubeJS specific junk --
+kubejs/node_modules/
+kubejs/.eslintcache
+
+# -- VS Code specific junk (Keep settings, ignore local user state) --
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# -- Mods specific junk --
+mods/.cache/
+mods/probe
