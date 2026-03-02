@@ -1,6 +1,26 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:sgjourney:archeology_table",
+      "recipe": "sgjourney:archeology_table"
+    }
+  ],
   "lookup_history": [
+    "item:sgjourney:golden_idol",
+    "item:sgjourney:sandstone_with_lapis",
+    {
+      "type": "fluid",
+      "id": "gtceu:duranium",
+      "amount": 144
+    },
+    "item:gtceu:duranium_ingot",
+    "item:gtceu:duranium_plate",
+    "item:gtceu:duranium_wrench{Damage:0,DisallowContainerItem:0b,GT.Behaviours:{Mode:2b,RelocateMinedBlocks:1b,RelocateMobDrops:1b},GT.Tool:{DefaultEnchantments:[],HarvestLevel:5,MaxDamage:8191,ToolSpeed:18.0f},HideFlags:2}",
+    "item:ad_astra:ice_shard",
+    "item:rechiseled:redstone_block_small_tiles",
+    "item:factory_blocks:fan_malfunction_on",
+    "item:factory_blocks:wgpanel",
+    "item:gtceu:plascrete",
     "item:gtceu:magnetic_iron_rod",
     "item:enderstorage:ender_pouch",
     "item:factory_blocks:fan_malfunction",

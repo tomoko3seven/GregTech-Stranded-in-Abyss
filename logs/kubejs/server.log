@@ -1,20 +1,22 @@
-[16:33:07] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:33:07] [INIT] Loaded plugins:
-[16:33:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:33:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:33:07] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[16:33:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[16:33:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[16:33:07] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[16:33:07] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
-[16:33:07] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[16:33:07] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
-[16:33:07] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[16:33:07] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[16:33:07] [INFO] Loaded script server_scripts:abydos_teleporter.js in 0.01 s
-[16:33:07] [INFO] example.js#5: GTSA (Loaded server scripts)
-[16:33:07] [INFO] Loaded script server_scripts:example.js in 0.0 s
-[16:33:07] [INFO] Loaded script server_scripts:magnetic_sand.js in 0.003 s
-[16:33:07] [INFO] Loaded 3/3 KubeJS server scripts in 0.024 s with 0 errors and 0 warnings
-[16:33:07] [INFO] Scripts loaded
-[16:33:17] [INFO] Server resource reload complete!
+[22:21:33] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:21:33] [INIT] Loaded plugins:
+[22:21:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:21:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[22:21:33] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:21:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:21:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:21:33] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:21:33] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[22:21:33] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:21:33] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[22:21:33] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:21:33] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[22:21:33] [INFO] Loaded script server_scripts:abydos_teleporter.js in 0.001 s
+[22:21:33] [INFO] example.js#5: GTSA (Loaded server scripts)
+[22:21:33] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[22:21:33] [INFO] Loaded script server_scripts:magnetic_sand.js in 0.002 s
+[22:21:33] [INFO] Loaded 3/3 KubeJS server scripts in 0.012 s with 0 errors and 0 warnings
+[22:21:33] [INFO] Scripts loaded
+[22:21:33] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[22:21:33] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[22:21:37] [INFO] Server resource reload complete!

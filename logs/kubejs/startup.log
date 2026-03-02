@@ -1,16 +1,16 @@
-[16:30:19] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:30:19] [INIT] Loaded plugins:
-[16:30:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:30:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:30:19] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[16:30:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[16:30:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[16:30:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[16:30:19] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
-[16:30:19] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[16:30:19] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
-[16:30:19] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[16:30:19] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[16:30:21] [INFO] example.js#5: GTSA (Loaded startup scripts)
-[16:30:21] [INFO] Loaded script startup_scripts:example.js in 0.046 s
-[16:30:21] [INFO] Loaded 1/1 KubeJS startup scripts in 1.363 s with 0 errors and 0 warnings
+[22:19:12] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:19:12] [INIT] Loaded plugins:
+[22:19:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:19:12] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[22:19:12] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:19:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:19:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:19:12] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:19:12] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[22:19:12] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:19:12] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[22:19:12] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:19:12] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[22:19:13] [INFO] example.js#5: GTSA (Loaded startup scripts)
+[22:19:13] [INFO] Loaded script startup_scripts:example.js in 0.029 s
+[22:19:13] [INFO] Loaded 1/1 KubeJS startup scripts in 0.925 s with 0 errors and 0 warnings

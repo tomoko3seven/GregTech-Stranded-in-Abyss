@@ -7,8 +7,13 @@ PlayerEvents.loggedIn(event => {
         event.server.scheduleInTicks(60, () => {
     
     player.health = 6;
+
+    const shipX = -5; 
+    const shipY = 98;
+    const shipZ = -5;
+
     event.server.runCommandSilent(`execute in sgjourney:abydos run tp "${player.username}" 0 100 0`);
-    event.server.runCommandSilent(`execute in sgjourney:abydos run place structure abydos:crashed_ship 0 98 0`);
+    event.server.runCommandSilent(`execute in sgjourney:abydos run place structure abydos:broken_spaceship ${shipX} ${shipY} ${shipZ}`);
 
     
     event.server.runCommandSilent(`execute in sgjourney:abydos run setworldspawn 0 100 0`);
