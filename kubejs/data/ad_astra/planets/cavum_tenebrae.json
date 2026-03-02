@@ -1,7 +1,7 @@
 {
-  "dimension": "sgjourney:abydos",
+  "dimension": "sgjourney:cavum_tenebrae",
   "gravity": 9.807,
-  "orbit": "sgjourney:abydos_orbit",
+  "orbit": "sgjourney:cavum_tenebrae_orbit",
   "oxygen": false,
   "solar_power": 16,
   "solar_system": "ad_astra:amenthara",
