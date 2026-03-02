@@ -8,8 +8,10 @@ PlayerEvents.loggedIn(event => {
     
     player.health = 6;
     event.server.runCommandSilent(`execute in sgjourney:abydos run tp "${player.username}" 0 100 0`);
+    event.server.runCommandSilent(`execute in sgjourney:abydos run place structure abydos:crashed_ship 0 98 0`);
+
     
-    event.server.runCommandSilent(`execute in ${dim} run setworldspawn ${spawnX} ${spawnY} ${spawnZ}`);
+    event.server.runCommandSilent(`execute in sgjourney:abydos run setworldspawn 0 100 0`);
 
     let suit = Item.of('ad_astra:netherite_space_suit', '{BotariumData:{StoredFluids:[{Amount:10000L,Fluid:"ad_astra:oxygen"}]}}');
     
