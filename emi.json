@@ -6,6 +6,11 @@
     }
   ],
   "lookup_history": [
+    "item:sgjourney:naquadah_alloy",
+    "#item:forge:ingots/naquadah_alloy",
+    "item:sgjourney:milky_way_dhd{BlockEntityTag:{Energy:0L,Inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:large_control_crystal\"},{Count:1b,Slot:1,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:2,id:\"sgjourney:communication_crystal\",tag:{Frequency:0}},{Count:1b,Slot:3,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:5,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:7,id:\"sgjourney:transfer_crystal\",tag:{TransferLimit:2500L}}],Size:9},energy_inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:fusion_core\"}],Size:2},id:\"sgjourney:milky_way_dhd\"}}",
+    "item:sgjourney:vial",
+    "item:immersivewood:flint_axe_head",
     "item:sgjourney:golden_idol",
     "item:sgjourney:sandstone_with_lapis",
     {
@@ -42,8 +47,7 @@
     },
     "item:minecraft:brown_glazed_terracotta",
     "item:ae2:crystal_resonance_generator",
-    "item:ae2:dense_energy_cell{internalCurrentPower:1600000.0d,internalMaxPower:1600000.0d}",
-    "item:sgjourney:naquadah_alloy"
+    "item:ae2:dense_energy_cell{internalCurrentPower:1600000.0d,internalMaxPower:1600000.0d}"
   ],
   "craft_history": [],
   "recipe_defaults": {

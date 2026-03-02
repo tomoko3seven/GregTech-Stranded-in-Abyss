@@ -12,11 +12,14 @@ PlayerEvents.loggedIn(event => {
     const shipY = 98;
     const shipZ = -5;
 
+    event.server.runCommandSilent(`forceload add ${shipX} ${shipZ}`);
+
     event.server.runCommandSilent(`execute in sgjourney:abydos run tp "${player.username}" 0 100 0`);
-    event.server.runCommandSilent(`execute in sgjourney:abydos run place structure abydos:broken_spaceship ${shipX} ${shipY} ${shipZ}`);
+    event.server.runCommandSilent(`execute in sgjourney:abydos run place template abydos:broken_spaceship ${shipX} ${shipY} ${shipZ} none none`);
 
     
     event.server.runCommandSilent(`execute in sgjourney:abydos run setworldspawn 0 100 0`);
+    event.server.runCommandSilent(`forceload remove ${shipX} ${shipZ}`);
 
     let suit = Item.of('ad_astra:netherite_space_suit', '{BotariumData:{StoredFluids:[{Amount:10000L,Fluid:"ad_astra:oxygen"}]}}');
     
