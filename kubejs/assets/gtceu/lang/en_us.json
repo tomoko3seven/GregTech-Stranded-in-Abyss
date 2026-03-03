@@ -1,4 +1,8 @@
 {
+   "block.gtceu.coagulation_tank": "Coagulation Tank",
+
+   "gtceu.coagulation_tank": "Coagulation",
+
    "material.gtceu.dy_element": "Dysprosium",
    "material.gtceu.pr_element": "Praseodymium",
    "material.gtceu.pa_element": "Protactinium",
@@ -57,5 +61,9 @@
    "material.gtceu.kp_element": "Keplerum", 
    "material.gtceu.bv_element": "Belusovium", 
    "material.gtceu.cuanday": "Cuanday",
+   "material.gtceu.makeshift_rubber": "Makeshift Rubber",
+   "material.gtceu.latex": "Latex",
+   "material.gtceu.preserved_latex": "Preserved Latex",
+   "material.gtceu.rubber_compound": "Rubber Compound"
    "material.gtceu.quasi_stable_spacetime": "Quasi-stable Spacetime" 
 }
