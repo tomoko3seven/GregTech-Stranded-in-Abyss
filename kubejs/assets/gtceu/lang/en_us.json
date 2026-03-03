@@ -56,5 +56,6 @@
    "material.gtceu.hw_element": "Hawkine", 
    "material.gtceu.kp_element": "Keplerum", 
    "material.gtceu.bv_element": "Belusovium", 
-   "material.gtceu.cuanday": "Cuanday" 
+   "material.gtceu.cuanday": "Cuanday",
+   "material.gtceu.quasi_stable_spacetime": "Quasi-stable Spacetime" 
 }
