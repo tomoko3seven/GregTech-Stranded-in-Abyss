@@ -1,0 +1,26 @@
+GTCEuStartupEvents.registry('gtceu:material', event => {
+    event.create('makeshift_rubber')
+        .ingot()
+        .iconSet(GTMaterialIconSet.DULL)
+        .color(0xF2F2C2)
+        .components('10x carbon', '16x hydrogen')
+        .flags(GTMaterialFlags.DISABLE_DECOMPOSITION, GTMaterialFlags.GENERATE_PLATE)
+
+    event.create('latex')
+        .liquid()
+        .color(0xF0D973)
+        .components('5x carbon', '8x hydrogen')
+        .flags(GTMaterialFlags.DISABLE_DECOMPOSITION)
+
+    event.create('preserved_latex')
+        .liquid()
+        .color(0xC7AD3C)
+        .components('5x carbon', '8x hydrogen', 'ammonia')
+        .flags(GTMaterialFlags.DISABLE_DECOMPOSITION)
+
+    event.create('rubber_compound')
+        .dust()
+        .color(0x3B3118)
+        .components('5x carbon', '8x hydrogen', 'ammonia')
+        .flags(GTMaterialFlags.DISABLE_DECOMPOSITION)
+})
