@@ -1,22 +1,29 @@
-[19:10:04] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[19:10:04] [INIT] Loaded plugins:
-[19:10:04] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[19:10:04] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[19:10:04] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[19:10:04] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[19:10:04] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[19:10:04] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[19:10:04] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
-[19:10:04] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[19:10:04] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
-[19:10:04] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[19:10:04] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[19:10:04] [INFO] Loaded script server_scripts:abydos_teleporter.js in 0.001 s
-[19:10:04] [INFO] Loaded script server_scripts:early_rubber_recipes.js in 0.001 s
-[19:10:04] [INFO] example.js#5: GTSA (Loaded server scripts)
-[19:10:04] [INFO] Loaded script server_scripts:example.js in 0.0 s
-[19:10:04] [INFO] Loaded script server_scripts:magnetic_sand.js in 0.0 s
-[19:10:04] [INFO] Loaded script server_scripts:replacing.js in 0.0 s
-[19:10:04] [INFO] Loaded 5/5 KubeJS server scripts in 0.013 s with 0 errors and 0 warnings
-[19:10:04] [INFO] Scripts loaded
-[19:10:04] [INFO] Initializing recipe event...
+[21:37:43] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[21:37:43] [INIT] Loaded plugins:
+[21:37:43] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:37:43] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[21:37:43] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[21:37:43] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[21:37:43] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[21:37:43] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[21:37:43] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[21:37:43] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[21:37:43] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[21:37:43] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[21:37:43] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[21:37:43] [INFO] Loaded script server_scripts:abydos_teleporter.js in 0.005 s
+[21:37:43] [INFO] Loaded script server_scripts:chapter1/chapter1.js in 0.001 s
+[21:37:43] [INFO] Loaded script server_scripts:chapter1/early_rubber_recipes.js in 0.002 s
+[21:37:43] [INFO] Loaded script server_scripts:chapter1/magnetic_sand.js in 0.001 s
+[21:37:43] [INFO] example.js#5: GTSA (Loaded server scripts)
+[21:37:43] [INFO] Loaded script server_scripts:example.js in 0.002 s
+[21:37:43] [INFO] Loaded script server_scripts:replacing.js in 0.0 s
+[21:37:43] [INFO] Loaded 6/6 KubeJS server scripts in 0.08 s with 0 errors and 0 warnings
+[21:37:43] [INFO] Scripts loaded
+[21:37:43] [INFO] Initializing recipe event...
+[21:37:50] [INFO] Processing recipes...
+[21:37:51] [INFO] Found 45852 recipes in 803.1 ms
+[21:37:51] [INFO] Posted recipe events in 75.54 ms
+[21:37:51] [WARN] Error parsing recipe kubejs:ad_astra/glass_tube_manual[ad_astra:alloying]: {"type":"ad_astra:alloying","ingredients":[{"item":"#forge:dusts/glass"}],"result":{"item":"gtceu:glass_tube","count":1},"cookTime":200,"energy":20}: Unknown item '#forge:dusts/glass'
+[21:37:52] [INFO] Added 18 recipes, removed 1 recipes, modified 69 recipes, with 1 failed recipes in 1.389 s
+[21:37:53] [INFO] Server resource reload complete!
