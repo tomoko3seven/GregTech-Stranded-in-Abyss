@@ -1,18 +1,18 @@
-[19:36:10] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[19:36:10] [INIT] Loaded plugins:
-[19:36:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[19:36:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[19:36:10] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[19:36:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[19:36:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[19:36:10] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[19:36:10] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
-[19:36:10] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[19:36:10] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
-[19:36:10] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[19:36:10] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[19:36:10] [INFO] Loaded script client_scripts:advMachineTooltips.js in 0.003 s
-[19:36:10] [INFO] example.js#5: Hello, World! (Loaded client scripts)
-[19:36:10] [INFO] Loaded script client_scripts:example.js in 0.001 s
-[19:36:10] [INFO] Loaded 2/2 KubeJS client scripts in 0.023 s with 0 errors and 0 warnings
-[19:36:20] [INFO] Client resource reload complete!
+[23:23:08] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[23:23:08] [INIT] Loaded plugins:
+[23:23:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[23:23:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[23:23:08] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[23:23:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[23:23:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[23:23:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[23:23:08] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[23:23:08] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[23:23:08] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[23:23:08] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[23:23:08] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[23:23:08] [INFO] Loaded script client_scripts:advMachineTooltips.js in 0.007 s
+[23:23:08] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[23:23:08] [INFO] Loaded script client_scripts:example.js in 0.001 s
+[23:23:08] [INFO] Loaded 2/2 KubeJS client scripts in 0.133 s with 0 errors and 0 warnings
+[23:23:08] [INFO] Client resource reload complete!
