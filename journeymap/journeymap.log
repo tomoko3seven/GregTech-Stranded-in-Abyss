@@ -1,11 +1,11 @@
-[23:13:46] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
-[23:13:46] [Render thread/INFO] [JourneymapClient] initialize ENTER
-[23:13:46] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
-[23:13:46] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[23:13:46] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.gregtechceu.gtceu.integration.map.journeymap.JourneyMapPlugin
-[23:13:46] [Render thread/DEBUG] [JourneymapClient] Loading and Generating Journeymap configs
-[23:13:47] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[23:13:47] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.10.3, built with forge 1.20.1-47.2.30
+[19:04:37] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[19:04:37] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[19:04:37] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[19:04:37] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[19:04:37] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: com.gregtechceu.gtceu.integration.map.journeymap.JourneyMapPlugin
+[19:04:37] [Render thread/DEBUG] [JourneymapClient] Loading and Generating Journeymap configs
+[19:04:37] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[19:04:37] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.10.3, built with forge 1.20.1-47.2.30
 forge: 47.4.16
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -23,31 +23,31 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.1
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.10.3, autoRemoveDeathpointDistance=2, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.10.3, port=8080, enabled=false}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.10.3, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=false, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=32, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.10.3, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeKeyEvents
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeChatEvents
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeHudOverlayEvents
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeWorldEvent
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeChunkEvents
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeClientTickEvent
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeRenderLevelLastEvent
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeLoggedInEvent
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeTextureStitchedEvent
-[23:13:47] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgePopupCustomEvents
-[23:13:47] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 312.9ms
-[23:14:01] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
-[23:14:01] [Render thread/DEBUG] [JourneymapClient] postInitialize ENTER
-[23:14:01] [Render thread/TRACE] [ThemeLoader] Initializing themes ...
-[23:14:01] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[23:14:01] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 254.34ms
-[23:19:29] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
-[23:19:57] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[23:19:58] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\New World (4)\waypoints
-[23:19:58] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\New World (4)\overworld. Memory: 4240MB total, 391MB free 
-[23:19:58] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\New World (4)\minecraft:overworld
-[23:19:58] [JM-task-4/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@62399e4b
-[23:20:00] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[23:20:00] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\New World (4)\waypoints
-[23:20:00] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\New World (4)\sgjourney~abydos. Memory: 6080MB total, 2338MB free 
-[23:21:48] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
-[23:24:23] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\mp\offline\sgjourney:abydos
-[23:24:28] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeKeyEvents
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeChatEvents
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeHudOverlayEvents
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeWorldEvent
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeChunkEvents
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeClientTickEvent
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeRenderLevelLastEvent
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeLoggedInEvent
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgeTextureStitchedEvent
+[19:04:37] [Render thread/DEBUG] [ForgeEventHandlerManager] Handler registered: journeymap.client.event.forge.ForgePopupCustomEvents
+[19:04:38] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 350.6ms
+[19:04:52] [Render thread/INFO] [JourneymapClient] Journeymap PostInit
+[19:04:52] [Render thread/DEBUG] [JourneymapClient] postInitialize ENTER
+[19:04:52] [Render thread/TRACE] [ThemeLoader] Initializing themes ...
+[19:04:53] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[19:04:53] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 264.34ms
+[19:07:21] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs
+[19:07:50] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[19:07:51] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\151515\waypoints
+[19:07:51] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\151515\overworld. Memory: 6080MB total, 2216MB free 
+[19:07:51] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\151515\minecraft:overworld
+[19:07:51] [JM-task-4/WARN] [TaskBatch] TaskBatch thread interrupted: journeymap.client.task.multi.MapPlayerTask$MapPlayerTaskBatch@5f93c654
+[19:07:52] [Render thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[19:07:52] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\151515\waypoints
+[19:07:52] [Render thread/INFO] [JourneymapClient] Mapping started in C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\sp\151515\sgjourney~abydos. Memory: 6080MB total, 2065MB free 
+[19:08:25] [Render thread/INFO] [ChatLog] JourneyMap: Press [J]
+[19:09:29] [Render thread/INFO] [JourneymapClient] Mapping halted in C:\Users\sqviz\AppData\Roaming\AstralRinthApp\profiles\GregTech_ Stranded in Abyss\journeymap\data\mp\offline\sgjourney:abydos
+[19:09:33] [Server thread/INFO] [ForgeConfig] Loading JourneyMap Forge Configs

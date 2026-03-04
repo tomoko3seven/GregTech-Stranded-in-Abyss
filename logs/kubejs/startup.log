@@ -1,18 +1,21 @@
-[23:13:34] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[23:13:34] [INIT] Loaded plugins:
-[23:13:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[23:13:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[23:13:34] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[23:13:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[23:13:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[23:13:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[23:13:34] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
-[23:13:34] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[23:13:34] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
-[23:13:34] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[23:13:34] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[23:13:35] [INFO] example.js#5: GTSA (Loaded startup scripts)
-[23:13:35] [INFO] Loaded script startup_scripts:example.js in 0.024 s
-[23:13:35] [INFO] registering/materials.js#1: Hello, World! (Loaded startup scripts)
-[23:13:35] [INFO] Loaded script startup_scripts:registering/materials.js in 0.005 s
-[23:13:35] [INFO] Loaded 2/2 KubeJS startup scripts in 0.834 s with 0 errors and 0 warnings
+[19:04:24] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:04:24] [INIT] Loaded plugins:
+[19:04:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:04:24] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[19:04:24] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[19:04:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[19:04:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[19:04:24] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:04:24] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[19:04:24] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[19:04:24] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[19:04:24] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[19:04:24] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[19:04:25] [INFO] example.js#5: GTSA (Loaded startup scripts)
+[19:04:25] [INFO] Loaded script startup_scripts:example.js in 0.028 s
+[19:04:25] [INFO] Loaded script startup_scripts:materials/rubber_line.js in 0.008 s
+[19:04:25] [INFO] Loaded script startup_scripts:multiblocks/coagulation_tank.js in 0.001 s
+[19:04:25] [INFO] Loaded script startup_scripts:registering/iconSets.js in 0.0 s
+[19:04:25] [INFO] registering/materials.js#1: Hello, World! (Loaded startup scripts)
+[19:04:25] [INFO] Loaded script startup_scripts:registering/materials.js in 0.003 s
+[19:04:25] [INFO] Loaded 5/5 KubeJS startup scripts in 0.946 s with 0 errors and 0 warnings

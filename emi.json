@@ -1,11 +1,47 @@
 {
   "favorites": [
     {
-      "stack": "item:sgjourney:archeology_table",
-      "recipe": "sgjourney:archeology_table"
+      "stack": "item:ad_astra:gas_tank{BotariumData:{StoredFluids:[{Amount:1000L,Fluid:\"ad_astra:oxygen\"}]}}"
     }
   ],
   "lookup_history": [
+    "item:gtceu:resistor",
+    "item:gtceu:basic_electronic_circuit",
+    "#item:gtceu:circuits/lv",
+    "item:gtceu:lv_electric_furnace",
+    "item:minecraft:iron_bars",
+    "item:gtceu:plascrete",
+    {
+      "type": "item",
+      "id": "minecraft:redstone",
+      "amount": 9
+    },
+    "item:minecraft:redstone_block",
+    "item:ad_astra:oxygen_loader",
+    "item:ad_astra:etrionic_blast_furnace",
+    "item:ad_astra:water_pump",
+    "item:ad_astra:netherite_space_suit{Damage:0}",
+    "item:effortlessbuilding:reach_upgrade1",
+    "item:effortlessbuilding:reach_upgrade3",
+    "item:ad_astra:wheel",
+    "item:ad_astra:fan",
+    {
+      "type": "item",
+      "id": "gtceu:raw_rubber_dust",
+      "amount": 7
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:preserved_latex",
+      "amount": 757
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:latex",
+      "amount": 750
+    },
+    "item:gtceu:preserved_latex_bucket",
+    "item:factory_blocks:exhaust",
     "item:sgjourney:naquadah_alloy",
     "#item:forge:ingots/naquadah_alloy",
     "item:sgjourney:milky_way_dhd{BlockEntityTag:{Energy:0L,Inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:large_control_crystal\"},{Count:1b,Slot:1,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:2,id:\"sgjourney:communication_crystal\",tag:{Frequency:0}},{Count:1b,Slot:3,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:5,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:7,id:\"sgjourney:transfer_crystal\",tag:{TransferLimit:2500L}}],Size:9},energy_inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:fusion_core\"}],Size:2},id:\"sgjourney:milky_way_dhd\"}}",
@@ -25,7 +61,6 @@
     "item:rechiseled:redstone_block_small_tiles",
     "item:factory_blocks:fan_malfunction_on",
     "item:factory_blocks:wgpanel",
-    "item:gtceu:plascrete",
     "item:gtceu:magnetic_iron_rod",
     "item:enderstorage:ender_pouch",
     "item:factory_blocks:fan_malfunction",
