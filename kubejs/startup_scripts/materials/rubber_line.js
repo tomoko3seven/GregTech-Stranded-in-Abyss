@@ -4,7 +4,7 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
         .iconSet(GTMaterialIconSet.DULL)
         .color(0xF2F2C2)
         .components('10x carbon', '16x hydrogen')
-        .flags(GTMaterialFlags.DISABLE_DECOMPOSITION, GTMaterialFlags.GENERATE_PLATE)
+        .flags(GTMaterialFlags.DISABLE_DECOMPOSITION, GTMaterialFlags.GENERATE_PLATE, GTMaterialFlags.GENERATE_RING)
 
     event.create('latex')
         .liquid()
