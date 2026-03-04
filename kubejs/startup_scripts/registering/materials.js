@@ -1,5 +1,3 @@
-console.info('Hello, World! (Loaded startup scripts)')
-
 GTCEuStartupEvents.registry('gtceu:material', event => {
 
     //Cuanday
