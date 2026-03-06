@@ -36,3 +36,4 @@ kubejs/.eslintcache
 # -- Mods specific junk --
 mods/.cache/
 mods/probe
+minecraftinstance.json

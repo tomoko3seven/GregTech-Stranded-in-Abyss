@@ -22,4 +22,7 @@ GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
 
     event.create('quasi_stable_spacetime')
         .parent('metallic')
+
+    event.create('paradoxium')
+        .parent('metallic')
 })

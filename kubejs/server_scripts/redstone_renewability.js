@@ -1,0 +1,20 @@
+ServerEvents.recipes(event => {
+    event.recipes.gtceu.sifter('redstone_seed_make')
+    .itemInputs('minecraft:redstone')
+    .itemOutputs('kubejs:redstone_seed')
+    .duration(20)
+    .EUt(16)
+
+    event.recipes.gtceu.autoclave('redstone_crystal_make')
+    .itemInputs('kubejs:redstone_seed')
+    .inputFluids('minecraft:water 250')
+    .itemOutputs('kubejs:redstone_crystal')
+    .duration(40)
+    .EUt(16)
+
+    event.recipes.gtceu.macerator('crush_redstone_crystal')
+    .itemInputs('kubejs:redstone_crystal')
+    .itemOutputs('3x minecraft:redstone')
+    .duration(40)
+    .EUt(16)
+})

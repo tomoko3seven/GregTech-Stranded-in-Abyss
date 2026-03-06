@@ -1,11 +1,216 @@
 {
   "favorites": [
     {
-      "stack": "item:sgjourney:archeology_table",
-      "recipe": "sgjourney:archeology_table"
+      "stack": "item:minecraft:oak_planks"
+    },
+    {
+      "stack": "item:minecraft:torchflower",
+      "recipe": "jei:/botanypots/minecraft/crop/torchflower"
+    },
+    {
+      "stack": {
+        "type": "fluid",
+        "id": "gtceu:rubber",
+        "amount": 1296
+      },
+      "recipe": "gtceu:chemical_reactor/rubber"
     }
   ],
   "lookup_history": [
+    "item:gtceu:lv_wiremill",
+    "item:gtceu:wood_plate",
+    "item:gtceu:resin_circuit_board",
+    "item:gtceu:resin_printed_circuit_board",
+    "item:ad_astra:etrionic_blast_furnace",
+    "item:gtceu:lv_extruder",
+    "item:rechiseled_extras:factory_platex",
+    {
+      "type": "fluid",
+      "id": "gtceu:latex",
+      "amount": 0
+    },
+    "item:gtceu:coke_oven_bricks",
+    "item:gtceu:coke_oven",
+    {
+      "type": "item",
+      "id": "minecraft:charcoal",
+      "amount": 9
+    },
+    "item:gtceu:charcoal_block",
+    "item:gtceu:hp_steam_extractor",
+    "item:gtceu:lv_air_scrubber",
+    "item:gtceu:makeshift_rubber_plate",
+    "item:gtceu:lv_electric_pump",
+    "item:minecraft:torchflower",
+    "item:gtceu:amethyst_dust",
+    "item:minecraft:amethyst_shard",
+    "item:gtceu:lv_mixer",
+    "item:gtceu:coagulation_tank",
+    {
+      "type": "item",
+      "id": "gtceu:raw_rubber_dust",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "gtceu:rubber_compound_dust",
+      "amount": 3
+    },
+    "item:gtceu:lv_chemical_reactor",
+    {
+      "type": "fluid",
+      "id": "gtceu:carbon_dioxide",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:formic_acid",
+      "amount": 1000
+    },
+    {
+      "type": "item",
+      "id": "gtceu:calcite_dust",
+      "amount": 2
+    },
+    "item:minecraft:granite",
+    {
+      "type": "item",
+      "id": "gtceu:granite_dust",
+      "amount": 5
+    },
+    {
+      "type": "item",
+      "id": "gtceu:redrock_dust",
+      "amount": 3
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:ammonia",
+      "amount": 0
+    },
+    "item:gtceu:tin_rotor",
+    {
+      "type": "fluid",
+      "id": "gtceu:preserved_latex",
+      "amount": 0
+    },
+    "item:gtceu:latex_bucket",
+    {
+      "type": "fluid",
+      "id": "gtceu:rubber",
+      "amount": 1296
+    },
+    "item:gtceu:opv_fluid_solidifier",
+    "item:gtceu:lv_fluid_solidifier",
+    "item:gtceu:rubber_plate",
+    "item:gtceu:lv_rock_crusher",
+    "item:gtceu:lv_sifter",
+    "item:minecraft:glowstone_dust",
+    "item:gtceu:lv_electrolyzer",
+    "item:gtceu:item_filter",
+    "item:gtceu:lv_extractor",
+    "item:gtceu:rubber_ring",
+    "item:gtceu:styrene_butadiene_rubber_ring",
+    "item:gtceu:lv_forge_hammer",
+    "item:gtceu:lv_lathe",
+    "item:gtceu:lv_centrifuge",
+    "item:gtceu:lv_macerator",
+    "item:gtceu:lv_electromagnetic_separator",
+    "item:gtceu:lv_conveyor_module",
+    "item:gtceu:lv_compressor",
+    "item:minecraft:diamond",
+    "item:gtceu:gold_single_wire",
+    "item:gtceu:lv_bender",
+    "item:ad_astra:radio",
+    "item:gtceu:pure_nickel_dust",
+    "item:gtceu:lv_electric_piston",
+    "item:kubejs:primitive_sieve",
+    "item:kubejs:plant_fiber",
+    {
+      "type": "item",
+      "id": "kubejs:torchflower_stem",
+      "amount": 3
+    },
+    "item:kubejs:hot_glass",
+    "item:kubejs:redstone_crystal",
+    "item:kubejs:redstone_seed",
+    "item:gtceu:chalcocite_dust",
+    "item:gtceu:chalcocite_ore",
+    "item:gtceu:diorite_chalcocite_ore",
+    "item:gtceu:endstone_chalcocite_ore",
+    "item:gtceu:netherrack_chalcocite_ore",
+    "item:gtceu:andesite_chalcocite_ore",
+    "item:gtceu:marble_chalcocite_ore",
+    "#item:forge:ores/copper",
+    "item:minecraft:copper_ingot",
+    "item:gtceu:chalcopyrite_dust",
+    "item:minecraft:recovery_compass",
+    "item:minecraft:clay_ball",
+    "item:gtceu:glass_tube",
+    "item:gtceu:ball_casting_mold",
+    "item:gtceu:paper_dust",
+    "item:minecraft:paper",
+    "item:gtceu:glass_dust",
+    "item:gtceu:red_alloy_single_cable",
+    "item:gtceu:resistor",
+    "item:gtceu:vacuum_tube",
+    "item:gtceu:basic_electronic_circuit",
+    "#item:gtceu:circuits/lv",
+    "item:gtceu:lv_alloy_smelter",
+    "item:gtceu:charcoal_dust",
+    "item:minecraft:oak_planks",
+    "item:gtceu:red_alloy_dust",
+    "item:gtceu:red_alloy_ingot",
+    "item:gtceu:red_alloy_plate",
+    "item:gtceu:red_alloy_single_wire",
+    "item:factory_blocks:grinder",
+    "item:gtceu:lv_electric_motor",
+    "item:gtceu:lv_machine_hull",
+    "item:gtceu:lv_machine_casing",
+    "#item:ad_astra:steel_plates",
+    "item:gtceu:lv_polarizer",
+    "item:gtceu:hp_steam_forge_hammer",
+    "item:gtceu:wrought_iron_block",
+    "item:minecraft:iron_block",
+    {
+      "type": "item",
+      "id": "gtceu:wrought_iron_nugget",
+      "amount": 9
+    },
+    "item:gtceu:wrought_iron_ingot",
+    "item:gtceu:wrought_iron_plate",
+    "item:gtceu:tin_single_cable",
+    "item:gtceu:sticky_resin",
+    "item:gtceu:makeshift_rubber_dust",
+    "item:gtceu:makeshift_rubber_ingot",
+    "item:gtceu:calcium_dust",
+    "item:gtceu:cuanday_ingot",
+    "item:gtceu:annealed_copper_ingot",
+    "item:gtceu:wood_frame",
+    "#item:minecraft:planks",
+    "item:minecraft:chest",
+    "item:minecraft:ender_chest",
+    "item:minecraft:crafting_table",
+    "item:minecraft:oak_sapling",
+    "item:minecraft:furnace",
+    "item:gtceu:lv_electric_furnace",
+    "item:minecraft:iron_bars",
+    "item:gtceu:plascrete",
+    {
+      "type": "item",
+      "id": "minecraft:redstone",
+      "amount": 9
+    },
+    "item:minecraft:redstone_block",
+    "item:ad_astra:oxygen_loader",
+    "item:ad_astra:water_pump",
+    "item:ad_astra:netherite_space_suit{Damage:0}",
+    "item:effortlessbuilding:reach_upgrade1",
+    "item:effortlessbuilding:reach_upgrade3",
+    "item:ad_astra:wheel",
+    "item:ad_astra:fan",
+    "item:gtceu:preserved_latex_bucket",
+    "item:factory_blocks:exhaust",
     "item:sgjourney:naquadah_alloy",
     "#item:forge:ingots/naquadah_alloy",
     "item:sgjourney:milky_way_dhd{BlockEntityTag:{Energy:0L,Inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:large_control_crystal\"},{Count:1b,Slot:1,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:2,id:\"sgjourney:communication_crystal\",tag:{Frequency:0}},{Count:1b,Slot:3,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:5,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:7,id:\"sgjourney:transfer_crystal\",tag:{TransferLimit:2500L}}],Size:9},energy_inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:fusion_core\"}],Size:2},id:\"sgjourney:milky_way_dhd\"}}",
@@ -25,7 +230,6 @@
     "item:rechiseled:redstone_block_small_tiles",
     "item:factory_blocks:fan_malfunction_on",
     "item:factory_blocks:wgpanel",
-    "item:gtceu:plascrete",
     "item:gtceu:magnetic_iron_rod",
     "item:enderstorage:ender_pouch",
     "item:factory_blocks:fan_malfunction",
