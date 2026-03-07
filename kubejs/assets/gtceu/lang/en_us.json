@@ -1,7 +1,9 @@
 {
    "block.gtceu.coagulation_tank": "Coagulation Tank",
+   "block.gtceu.sterling_engine": "Stirling Engine",
 
    "gtceu.coagulation_tank": "Coagulation",
+   "gtceu.sterling_engine": "Stirling Engine",
 
    "material.gtceu.dy_element": "Dysprosium",
    "material.gtceu.pr_element": "Praseodymium",
