@@ -1,20 +1,20 @@
-[22:09:08] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[22:09:08] [INIT] Loaded plugins:
-[22:09:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[22:09:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[22:09:08] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[22:09:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[22:09:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[22:09:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[22:09:08] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
-[22:09:08] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[22:09:08] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
-[22:09:08] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[22:09:08] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[22:09:09] [INFO] Loaded script startup_scripts:materials/rubber_line.js in 0.031 s
-[22:09:09] [INFO] Loaded script startup_scripts:multiblocks/coagulation_tank.js in 0.003 s
-[22:09:09] [INFO] Loaded script startup_scripts:registering/iconSets.js in 0.0 s
-[22:09:09] [INFO] Loaded script startup_scripts:registering/materials.js in 0.0 s
-[22:09:09] [INFO] registering/miscItems.js#1: Hello, GTSiA! (Loaded startup scripts)
-[22:09:09] [INFO] Loaded script startup_scripts:registering/miscItems.js in 0.003 s
-[22:09:09] [INFO] Loaded 5/5 KubeJS startup scripts in 0.853 s with 0 errors and 0 warnings
+[22:43:58] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:43:58] [INIT] Loaded plugins:
+[22:43:58] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:43:58] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[22:43:58] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:43:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:43:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:43:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:43:58] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[22:43:58] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:43:58] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[22:43:58] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:43:58] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[22:43:59] [INFO] Loaded script startup_scripts:materials/rubber_line.js in 0.03 s
+[22:43:59] [INFO] Loaded script startup_scripts:multiblocks/coagulation_tank.js in 0.001 s
+[22:43:59] [INFO] Loaded script startup_scripts:registering/iconSets.js in 0.0 s
+[22:43:59] [INFO] Loaded script startup_scripts:registering/materials.js in 0.001 s
+[22:43:59] [INFO] registering/miscItems.js#1: Hello, GTSiA! (Loaded startup scripts)
+[22:43:59] [INFO] Loaded script startup_scripts:registering/miscItems.js in 0.001 s
+[22:43:59] [INFO] Loaded 5/5 KubeJS startup scripts in 0.855 s with 0 errors and 0 warnings

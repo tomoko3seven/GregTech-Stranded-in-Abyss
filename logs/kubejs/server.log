@@ -1,29 +1,27 @@
-[22:25:34] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[22:25:34] [INIT] Loaded plugins:
-[22:25:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[22:25:34] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[22:25:34] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[22:25:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[22:25:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[22:25:34] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[22:25:34] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
-[22:25:34] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[22:25:34] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
-[22:25:34] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[22:25:34] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
-[22:25:34] [INFO] Loaded script server_scripts:abydos_teleporter.js in 0.002 s
-[22:25:34] [INFO] Loaded script server_scripts:chapter1/chapter1.js in 0.0 s
-[22:25:34] [INFO] Loaded script server_scripts:chapter1/early_rubber_recipes.js in 0.001 s
-[22:25:34] [INFO] Loaded script server_scripts:chapter1/magnetic_sand.js in 0.0 s
-[22:25:34] [INFO] example.js#5: GTSA (Loaded server scripts)
-[22:25:34] [INFO] Loaded script server_scripts:example.js in 0.0 s
-[22:25:34] [INFO] Loaded script server_scripts:redstone_renewability.js in 0.0 s
-[22:25:34] [INFO] Loaded script server_scripts:replacing.js in 0.002 s
-[22:25:34] [INFO] Loaded 7/7 KubeJS server scripts in 0.016 s with 0 errors and 0 warnings
-[22:25:34] [INFO] Scripts loaded
-[22:25:34] [INFO] Initializing recipe event...
-[22:25:41] [INFO] Processing recipes...
-[22:25:41] [INFO] Found 42949 recipes in 714.7 ms
-[22:25:41] [INFO] Posted recipe events in 62.17 ms
-[22:25:43] [INFO] Added 26 recipes, removed 1 recipes, modified 69 recipes, with 0 failed recipes in 1.256 s
-[22:25:43] [INFO] Server resource reload complete!
+[22:45:42] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[22:45:42] [INIT] Loaded plugins:
+[22:45:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[22:45:42] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[22:45:42] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[22:45:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[22:45:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[22:45:42] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[22:45:42] [INIT] - concerrox.emixx.integration.kubejs.EmiPlusPlusKubeJSPlugin
+[22:45:42] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[22:45:42] [INIT] - com.bobvarioa.kubejsbotanypots.KubeJSBotanyPotsPlugin
+[22:45:42] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[22:45:42] [INIT] - snownee.lychee.compat.kubejs.LycheeKubeJSPlugin
+[22:45:43] [INFO] Loaded script server_scripts:abydos_teleporter.js in 0.001 s
+[22:45:43] [INFO] Loaded script server_scripts:chapter1/chapter1.js in 0.001 s
+[22:45:43] [INFO] Loaded script server_scripts:chapter1/early_rubber_recipes.js in 0.001 s
+[22:45:43] [INFO] Loaded script server_scripts:chapter1/magnetic_sand.js in 0.0 s
+[22:45:43] [INFO] example.js#5: GTSA (Loaded server scripts)
+[22:45:43] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[22:45:43] [INFO] Loaded script server_scripts:redstone_renewability.js in 0.0 s
+[22:45:43] [INFO] Loaded script server_scripts:replacing.js in 0.0 s
+[22:45:43] [INFO] Loaded 7/7 KubeJS server scripts in 0.013 s with 0 errors and 0 warnings
+[22:45:43] [INFO] Scripts loaded
+[22:45:43] [INFO] Initializing recipe event...
+[22:45:43] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[22:45:43] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[22:45:46] [INFO] Server resource reload complete!
