@@ -1,6 +1,7 @@
 {
   "favorites": [
     {
+<<<<<<< Updated upstream
       "stack": "item:minecraft:oak_planks"
     },
     {
@@ -155,8 +156,238 @@
     "item:gtceu:glass_dust",
     "item:gtceu:red_alloy_single_cable",
     "item:gtceu:resistor",
+=======
+      "stack": "item:ad_astra:gas_tank{BotariumData:{StoredFluids:[{Amount:1000L,Fluid:\"ad_astra:oxygen\"}]}}"
+    },
+    {
+      "stack": "item:gtceu:mv_fluid_drilling_rig"
+    }
+  ],
+  "lookup_history": [
+    "item:gtceu:polyphenylene_sulfide_rod",
+    "item:gtceu:polyphenylene_sulfide_ingot",
+    {
+      "type": "fluid",
+      "id": "gtceu:polyphenylene_sulfide",
+      "amount": 1500
+    },
+    {
+      "type": "item",
+      "id": "gtceu:salt_dust",
+      "amount": 2
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:salt_water",
+      "amount": 0
+    },
+    "item:gtceu:lv_solar_panel",
+    "item:gtceu:mv_bedrock_ore_miner",
+    "item:gtceu:luv_large_miner",
+    "item:gtceu:ev_fluid_drilling_rig",
+    "item:gtceu:hv_fluid_drilling_rig",
+    "item:gtceu:ev_bedrock_ore_miner",
+    "item:gtceu:hv_bedrock_ore_miner",
+    "item:gtceu:solid_machine_casing",
+    "item:gtceu:object_holder",
+    "item:gtceu:assembly_line",
+    "item:gtceu:assembly_line_casing",
+    "item:gtceu:titanium_rotor",
+    "item:gtceu:heat_vent",
+    {
+      "type": "item",
+      "id": "gtceu:tungstensteel_turbine_casing",
+      "amount": 2
+    },
+    "item:gtceu:steel_turbine_casing",
+    "item:gtceu:pump_deck",
+    "item:chisel:chisel",
+    "item:rechiseled_extras:voidstone_primal_dent_connecting",
+    {
+      "type": "item",
+      "id": "gtceu:iron_rod",
+      "chance": 0.0
+    },
+    "item:gtceu:coagulation_tank",
+    "item:gtceu:stable_machine_casing",
+    {
+      "type": "item",
+      "id": "gtceu:calcite_dust",
+      "amount": 7
+    },
+    "item:gtceu:marble_dust",
+    "item:gtceu:marble",
+    "item:gtceu:marble_cobblestone",
+    "item:gtceu:polished_marble",
+    "item:gtceu:chiseled_marble",
+    "item:gtceu:nether_star_lens",
+    "item:gtceu:glass_lens",
+    "item:gtceu:glass_dust",
+    "item:gtceu:glass_tube",
+>>>>>>> Stashed changes
     "item:gtceu:vacuum_tube",
     "item:gtceu:basic_electronic_circuit",
+    "item:gtceu:nand_chip",
+    "item:gtceu:makeshift_rubber_plate",
+    "item:gtceu:makeshift_rubber_dust",
+    "item:gtceu:makeshift_rubber_ingot",
+    {
+      "type": "fluid",
+      "id": "gtceu:rubber",
+      "amount": 144
+    },
+    {
+      "type": "item",
+      "id": "gtceu:rubber_dust",
+      "amount": 3
+    },
+    "item:gtceu:rubber_compound_dust",
+    "item:framedblocks:framed_pillar",
+    "#item:ad_astra:steel_plates",
+    "item:ad_astra:water_pump",
+    "item:rechiseled_extras:tyrian_disordered_metal_bits",
+    "item:rechiseled_extras:tyrian_disordered_purple_bits",
+    "item:ae2:cell_component_16k",
+    "item:expatternprovider:infinity_cell{record:{\"#c\":\"ae2:f\",id:\"minecraft:water\"}}",
+    "item:minecraft:shroomlight",
+    "item:minecraft:crimson_stem",
+    "item:minecraft:stripped_crimson_stem",
+    "item:minecraft:stripped_crimson_hyphae",
+    "item:gtceu:wood_dust",
+    "item:gtceu:wood_plate",
+    "item:gtceu:ulv_machine_hull",
+    {
+      "type": "item",
+      "id": "gtceu:titanium_carbide_dust",
+      "amount": 2
+    },
+    "item:gtceu:titanium_dust",
+    "item:gtceu:hot_titanium_ingot",
+    {
+      "type": "fluid",
+      "id": "gtceu:titanium_tetrachloride",
+      "amount": 1000
+    },
+    {
+      "type": "item",
+      "id": "gtceu:rutile_dust",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "gtceu:ilmenite_dust",
+      "amount": 5
+    },
+    "item:gtceu:wrought_iron_ingot",
+    "item:gtceu:wrought_iron_rod",
+    "item:gtceu:wrought_iron_ring",
+    "item:minecraft:chain",
+    "item:minecraft:chainmail_helmet{Damage:0}",
+    {
+      "type": "fluid",
+      "id": "gtceu:latex",
+      "amount": 750
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:ammonia",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:nitrogen",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:preserved_latex",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:formic_acid",
+      "amount": 75
+    },
+    "item:gtceu:cuanday_frame",
+    {
+      "type": "fluid",
+      "id": "gtceu:cuanday",
+      "amount": 144
+    },
+    "item:gtceu:cuanday_ingot",
+    "item:gtceu:cuanday_dust",
+    "item:gtceu:cuanday_rod",
+    "item:gtceu:cuanday_nugget",
+    "item:gtceu:treated_wood_planks",
+    "item:ae2:sky_stone_tank",
+    "item:gtceu:wood_wall",
+    {
+      "type": "fluid",
+      "id": "minecraft:lava",
+      "amount": 1000
+    },
+    "item:minecraft:lava_bucket",
+    "item:gtceu:soldering_alloy_bucket",
+    "item:gtceu:damascus_steel_ingot",
+    "item:gtceu:damascus_steel_plate",
+    "item:gtceuterminal:dismantler",
+    "item:gtceu:sticky_resin",
+    "item:chipped:sticky_melon",
+    {
+      "type": "item",
+      "id": "gtceu:nether_star_dust",
+      "amount": 4
+    },
+    "item:minecraft:nether_star",
+    "item:aeinfinitybooster:dimension_card",
+    {
+      "type": "fluid",
+      "id": "gtceu:seed_oil",
+      "amount": 8
+    },
+    "item:minecraft:torchflower_seeds",
+    "item:minecraft:torchflower",
+    {
+      "type": "fluid",
+      "id": "gtceu:silicone_rubber",
+      "amount": 0
+    },
+    "item:minecraft:slime_ball",
+    {
+      "type": "item",
+      "id": "gtceu:makeshift_rubber_nugget",
+      "amount": 9
+    },
+    {
+      "type": "item",
+      "id": "gtceu:tiny_makeshift_rubber_dust",
+      "amount": 9
+    },
+    {
+      "type": "item",
+      "id": "gtceu:wetware_processor",
+      "amount": 4
+    },
+    "item:gtceu:neuro_processing_unit",
+    {
+      "type": "item",
+      "id": "gtceu:silicone_rubber_foil",
+      "amount": 4
+    },
+    "item:gtceu:silicone_rubber_plate",
+    {
+      "type": "item",
+      "id": "gtceu:silicone_rubber_dust",
+      "amount": 4
+    },
+    "item:gtceu:silicone_rubber_gear",
+    "item:gtceu:silicone_rubber_ingot",
+    {
+      "type": "item",
+      "id": "gtceu:polydimethylsiloxane_dust",
+      "amount": 9
+    },
+    "item:gtceu:resistor",
     "#item:gtceu:circuits/lv",
     "item:gtceu:lv_alloy_smelter",
     "item:gtceu:charcoal_dust",
@@ -205,12 +436,24 @@
     },
     "item:minecraft:redstone_block",
     "item:ad_astra:oxygen_loader",
+<<<<<<< Updated upstream
     "item:ad_astra:water_pump",
+=======
+    "item:ad_astra:etrionic_blast_furnace",
+>>>>>>> Stashed changes
     "item:ad_astra:netherite_space_suit{Damage:0}",
     "item:effortlessbuilding:reach_upgrade1",
     "item:effortlessbuilding:reach_upgrade3",
     "item:ad_astra:wheel",
     "item:ad_astra:fan",
+<<<<<<< Updated upstream
+=======
+    {
+      "type": "item",
+      "id": "gtceu:raw_rubber_dust",
+      "amount": 7
+    },
+>>>>>>> Stashed changes
     "item:gtceu:preserved_latex_bucket",
     "item:factory_blocks:exhaust",
     "item:sgjourney:naquadah_alloy",

@@ -2,6 +2,10 @@ type = last_world
 
 last_world {
   is_server = false
+<<<<<<< Updated upstream
   world = C:/Users/sqviz/AppData/Roaming/AstralRinthApp/profiles/GregTech_ Stranded in Abyss/saves/New World
+=======
+  world = C:/Users/jonah/curseforge/minecraft/Instances/GregTech Stranded in abyss (1)/saves/New World (3)
+>>>>>>> Stashed changes
 }
 
