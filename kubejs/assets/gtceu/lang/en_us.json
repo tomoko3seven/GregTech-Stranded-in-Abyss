@@ -1,7 +1,9 @@
 {
    "block.gtceu.coagulation_tank": "Coagulation Tank",
+   "block.gtceu.sterling_engine": "Stirling Engine",
 
    "gtceu.coagulation_tank": "Coagulation",
+   "gtceu.sterling_engine": "Stirling Engine",
 
    "material.gtceu.dy_element": "Dysprosium",
    "material.gtceu.pr_element": "Praseodymium",
@@ -65,5 +67,13 @@
    "material.gtceu.latex": "Latex",
    "material.gtceu.preserved_latex": "Preserved Latex",
    "material.gtceu.rubber_compound": "Rubber Compound",
-   "material.gtceu.quasi_stable_spacetime": "Quasi-stable Spacetime" 
+   "material.gtceu.quasi_stable_spacetime": "§klll§r§c§lQuasi-stable §d§lSpacetime§r§klll§r",
+   "material.gtceu.logic_derived_paradoxium": "§e§lLogic-Derived§r Paradoxium",
+   "material.gtceu.information_derived_paradoxium": "§c§lInformation-Derived§r Paradoxium",
+   "material.gtceu.reality_derived_paradoxium": "§d§lReality-Derived§r Paradoxium",
+   "material.gtceu.time_derived_paradoxium": "§b§lTime-Derived§r Paradoxium",
+   "material.gtceu.antimatter": "§5Antimatter",
+   "material.gtceu.dark_matter": "§8Dark Matter",
+   "material.gtceu.exotic_matter": "§bExotic Matter",
+   "material.gtceu.strange_matter": "§aStrange Matter"
 }
