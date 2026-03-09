@@ -11,6 +11,8 @@
   "ae2:power_storage": null,
   "ae2:server_data": null,
   "corpse:corpse": null,
+  "enderchests:hud": null,
+  "endertanks:hud": null,
   "expatternprovider:jade_chamber": null,
   "expatternprovider:jade_wireless": null,
   "expatternprovider:tile_data": null,
@@ -88,5 +90,10 @@
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "productivebees:canvas_beehive": null,
+  "productivebees:jar": null,
+  "productivebees:productive_bee": null,
+  "productivebees:solitary_nest": null,
+  "shetiphiancore:hud": null
 }
