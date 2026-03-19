@@ -1,6 +1,59 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:gtceu:osmiridium_dust",
+    {
+      "type": "fluid",
+      "id": "gtceu:molten_naquadah_alloy",
+      "amount": 144
+    },
+    "item:gtceu:naquadah_alloy_ingot",
+    "item:sgjourney:milky_way_dhd{BlockEntityTag:{Energy:0L,Inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:large_control_crystal\"},{Count:1b,Slot:1,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:2,id:\"sgjourney:communication_crystal\",tag:{Frequency:0}},{Count:1b,Slot:3,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:5,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:7,id:\"sgjourney:transfer_crystal\",tag:{TransferLimit:2500L}}],Size:9},energy_inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:fusion_core\"}],Size:2},id:\"sgjourney:milky_way_dhd\"}}",
+    "item:gtceu:purified_naquadah_ore",
+    "#item:forge:purified_ores/naquadah",
+    "item:sgjourney:pure_naquadah_block",
+    "item:sgjourney:pure_naquadah",
+    "item:sgjourney:naquadah",
+    "item:sgjourney:stargate_variant_crystal",
+    "item:sgjourney:stargate_variant_crystal{Variant:\"sgjourney:pegasus_atlantis\"}",
+    "item:sgjourney:naquadah_alloy_iris{durability:8192}",
+    "item:sgjourney:stargate_shielding_ring",
+    "item:sgjourney:bronze_iris{durability:4096}",
+    "item:sgjourney:universe_stargate_chevron",
+    "item:productivebees:sugarbag_honeycomb",
+    "item:gtceu:bronze_nugget",
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:bronze\"}}",
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:brown_shroom\"}}",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:bronze"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:tin"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:crystalline"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:bismuth"
+    },
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:bismuth\"}}",
+    "item:productivebees:spawn_egg_configurable_bee{EntityTag:{type:\"productivebees:bismuth\"}}",
+    "item:gtceuterminal:dismantler",
+    {
+      "type": "fluid",
+      "id": "gtceu:severely_steam_cracked_heavy_fuel",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:heavy_fuel",
+      "amount": 1000
+    },
+    "item:gtceu:cracker",
     "item:gtceu:titanium_sword{Damage:0,DisallowContainerItem:0b,GT.Behaviours:{},GT.Tool:{AttackDamage:9.0f,AttackSpeed:-2.4f,DefaultEnchantments:[],MaxDamage:1535},HideFlags:2}",
     "item:cyber_ware_port:scanner",
     "item:cyber_ware_port:neuropozyne",
