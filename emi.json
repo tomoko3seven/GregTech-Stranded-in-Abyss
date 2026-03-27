@@ -1,6 +1,391 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:gtceu:good_electronic_circuit",
+      "recipe": "gtceu:shaped/electronic_circuit_mv"
+    }
+  ],
   "lookup_history": [
+    "item:gtceu:good_electronic_circuit",
+    "#item:gtceu:circuits/mv",
+    "item:gtceu:electric_jetpack{Charge:1000000L}",
+    "item:gtceu:mv_fluid_drilling_rig",
+    "item:gtceu:mv_machine_casing",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:amber"
+    },
+    "item:productivebees:petrified_honey",
+    "item:productivebees:magenta_petrified_honey",
+    "item:gtceu:steel_frame",
+    "item:gtceu:annealed_copper_ingot",
+    "item:cyber_ware_port:lungs_upgrades_hyperoxygenation",
+    "item:mo_bubbles:water_bubble",
+    "item:gtceu:wood_plate",
+    "item:gtceu:opv_machine_hull",
+    {
+      "type": "item",
+      "id": "minecraft:barrier",
+      "nbt": "{display:{Name:\u0027{\"text\":\"Empty Tag: gtceu:circuits/opv\"}\u0027}}",
+      "amount": 64
+    },
+    "item:gtceu:opv_electric_furnace",
+    "item:gtceu:primitive_blast_furnace",
+    "item:ad_astra:etrionic_blast_furnace",
+    "item:gtceu:multi_smelter",
+    "item:ad_astra:glowing_steel_pillar",
+    "item:gtceu:steel_plate",
+    "#item:ad_astra:steel_plates",
+    "item:minecraft:minecart",
+    "item:ad_astra:steel_plate",
+    {
+      "type": "fluid",
+      "id": "sophisticatedcore:xp_still",
+      "amount": 250
+    },
+    "item:minecraft:experience_bottle",
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:experience\"}}",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:experience"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:emerald"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:slimy"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:lapis"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:diamond"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:dark_gem"
+    },
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:dark_gem\"}}",
+    "item:productivebees:configurable_comb{EntityTag:{type:\"productivebees:dark_gem\"}}",
+    "item:evilcraft:dark_gem_crushed",
+    "item:evil_eye_evilcraft_addon:evil_eye",
+    "item:evilcraft:infested_nether_soul_sand",
+    "item:toms_storage:ts.wireless_terminal",
+    "item:toms_storage:ts.adv_wireless_terminal",
+    "item:enderchests:ender_bag{code:\"DDD\",open:0b,owner:\"all\"}",
+    {
+      "type": "fluid",
+      "id": "evilcraft:blood",
+      "amount": 2500
+    },
+    "item:unusual_prehistory:stethacanthus_spawn_egg",
+    "item:unusual_prehistory:floralite_stairs",
+    "item:unusual_prehistory:metasequoia_sapling",
+    "item:unusual_prehistory:transmogrifier",
+    "item:unusual_prehistory:organic_ooze",
+    "item:ad_astra:solar_panel",
+    "item:ad_astra:launch_pad",
+    {
+      "type": "item",
+      "id": "gtceu:fine_red_alloy_wire",
+      "amount": 4
+    },
+    "item:gtceu:computer_monitor_cover",
+    "item:gtceuterminal:schematic_interface",
+    "item:minecraft:heart_of_the_sea",
+    {
+      "type": "item",
+      "id": "evilcraft:entangled_chalice",
+      "amount": 2
+    },
+    "item:evilcraft:corrupted_tear",
+    "item:minecraft:ghast_tear",
+    "item:gtceu:nichrome_coil_block",
+    {
+      "type": "fluid",
+      "id": "gtceu:carbon_monoxide",
+      "amount": 2000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:acetic_acid",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:ethenone",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:acetic_anhydride",
+      "amount": 1000
+    },
+    {
+      "type": "item",
+      "id": "gtceu:paracetamol_dust",
+      "amount": 16
+    },
+    "item:gtceu:paracetamol_pill",
+    "item:gtceu:logic_derived_paradoxium_ingot",
+    "item:gtceu:logic_derived_paradoxium_dust",
+    "item:ae2_overclocked:parallel_card",
+    "item:ae2_overclocked:parallel_card_8x",
+    "item:ae2_overclocked:parallel_card_64x",
+    "item:ae2_overclocked:parallel_card_1024x",
+    "item:ae2_overclocked:parallel_card_max",
+    "item:expatternprovider:assembler_matrix_glass",
+    "item:evilcraft:poison_sac",
+    "item:minecraft:pufferfish",
+    [
+      "item:minecraft:cod",
+      "item:minecraft:prismarine_crystals",
+      "item:minecraft:pufferfish"
+    ],
+    "item:expatternprovider:fishbig",
+    "item:gtceu:sticky_resin",
+    "item:gtceu:resin_circuit_board",
+    "item:gtceu:resin_printed_circuit_board",
+    "item:gtceu:basic_electronic_circuit",
+    "item:gtceu:empty_mold",
+    {
+      "type": "item",
+      "id": "gtceu:ball_casting_mold",
+      "remainder": "item:gtceu:ball_casting_mold"
+    },
+    "item:gtceu:glass_tube",
+    "item:gtceu:vacuum_tube",
+    "item:ad_astra:steel_plating",
+    "item:ad_astra:steel_pillar",
+    "item:megacells:sky_steel_ingot",
+    {
+      "type": "item",
+      "id": "gtceu:reaction_safe_mixing_casing",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "gtceu:maraging_steel_300_frame",
+      "amount": 2
+    },
+    "item:gtceu:maraging_steel_300_rod",
+    "item:gtceu:maraging_steel_300_ingot",
+    {
+      "type": "fluid",
+      "id": "gtceu:molten_maraging_steel_300",
+      "amount": 0
+    },
+    "item:gtceu:steel_bolt",
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "gtceu:circuits/ulv",
+      "amount": 2
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:latex",
+      "amount": 750
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:preserved_latex",
+      "amount": 1000
+    },
+    {
+      "type": "item",
+      "id": "gtceu:raw_rubber_dust",
+      "amount": 2
+    },
+    "item:gtceu:rubber_compound_dust",
+    {
+      "type": "fluid",
+      "id": "gtceu:rubber",
+      "amount": 144
+    },
+    "item:gtceu:rubber_dust",
+    "item:gtceu:iridium_nugget",
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:iridium\"}}",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:iridium"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:crystalline"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:iron"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:steel"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:desh"
+    },
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:desh\"}}",
+    "item:productivebees:configurable_comb{EntityTag:{type:\"productivebees:desh\"}}",
+    "item:ad_astra:raw_desh",
+    "item:ad_astra:desh_ingot",
+    "item:ad_astra:desh_nugget",
+    "item:ad_astra:desh_plate",
+    "item:ad_astra:photovoltaic_etrium_cell",
+    "item:gtceu:hv_arc_furnace",
+    "item:ad_astra:energizer{BotariumData:{Energy:2000000L}}",
+    "item:gtceu:hot_tungsten_steel_ingot",
+    "item:gtceu:tungsten_steel_ingot",
+    "item:gtceu:tungsten_steel_pickaxe{Damage:0,DisallowContainerItem:0b,GT.Behaviours:{TorchPlacing:1b},GT.Tool:{DefaultEnchantments:[],HarvestLevel:4,MaxDamage:2047,ToolSpeed:13.0f},HideFlags:2}",
+    "item:gtceu:invar_hammer{Damage:0,DisallowContainerItem:0b,GT.Behaviours:{},GT.Tool:{DefaultEnchantments:[],HarvestLevel:2,MaxDamage:383,ToolSpeed:8.0f},HideFlags:2}",
+    "item:evilcraft:blood_potash",
+    "item:evilcraft:hardened_blood_shard",
+    "item:evilcraft:blood_waxed_coal_block",
+    "item:gtceu:red_alloy_dust",
+    "item:gtceu:red_alloy_ingot",
+    "item:gtceu:red_alloy_plate",
+    "item:gtceu:red_alloy_single_wire",
+    "item:gtceu:red_alloy_single_cable",
+    "item:gtceu:glass_dust",
+    "item:kubejs:hot_glass",
+    "item:gtceu:resistor",
+    "item:evilcraft:promise_tier_2",
+    "item:evilcraft:reinforced_undead_planks",
+    "item:evilcraft:colossal_blood_chest",
+    "item:evilcraft:blood_chest",
+    "item:evilcraft:blood_infusion_core",
+    "item:evilcraft:blood_infuser",
+    "#item:forge:cobblestone",
+    "item:evilcraft:blood_extractor",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:bloody"
+    },
+    "item:evilcraft:blood_waxed_coal",
+    "item:minecraft:polished_deepslate",
+    "item:evilcraft:bloody_cobblestone",
+    "item:productivebees:spawn_egg_nomad_bee",
+    "item:productivebees:spawn_egg_configurable_bee{EntityTag:{type:\"productivebees:bloody\"}}",
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:bloody\"}}",
+    "item:productivebees:configurable_comb{EntityTag:{type:\"productivebees:bloody\"}}",
+    {
+      "type": "item",
+      "id": "gtceu:uhpic_chip",
+      "amount": 2
+    },
+    "item:gtceu:uhpic_wafer",
+    {
+      "type": "fluid",
+      "id": "gtceu:naquadah",
+      "amount": 144
+    },
+    "item:sgjourney:naquadah",
+    "item:sgjourney:jaffa_chestplate{Damage:0}",
+    "item:sgjourney:system_lord_chestplate{Damage:0}",
+    "item:sgjourney:kara_kesh",
+    "item:gtceu:crushed_naquadah_ore",
+    "item:gtceu:purified_naquadah_ore",
+    "#item:forge:purified_ores/naquadah",
+    "item:sgjourney:pure_naquadah_block",
+    "item:sgjourney:pure_naquadah",
+    "item:sgjourney:crystal_base",
+    "item:sgjourney:transfer_crystal",
+    "item:sgjourney:naquadah_power_cell{inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:vial\",tag:{Fluid:{Amount:250,FluidName:\"sgjourney:liquid_naquadah\"}}}],Size:1}}",
+    "item:ad_astra:jet_suit_helmet{Damage:0}",
+    "item:ad_astra:calorite_plate",
+    "item:ad_astra:calorite_ingot",
+    "item:ad_astra:raw_calorite",
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:calorite\"}}",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:calorite"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:ostrum"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:coal"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:leafcutter_bee"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:digger_bee"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:quarry_bee"
+    },
+    "item:minecraft:end_stone",
+    "item:productivebees:end_stone_nest",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:ender"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:amethyst"
+    },
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:amethyst\"}}",
+    "item:productivebees:configurable_comb{EntityTag:{type:\"productivebees:amethyst\"}}",
+    "item:minecraft:amethyst_shard",
+    "item:sgjourney:matok{IsOpen:0b}",
+    "item:sgjourney:cooked_goauld",
+    "item:megacells:mega_crafting_monitor",
+    "item:megacells:cell_dock",
+    "item:megacells:decompression_module",
+    "item:kubejs:plant_fiber_mesh",
+    "item:kubejs:redstone_crystal",
+    "item:kubejs:redstone_seed",
+    "item:kubejs:plant_fiber",
+    "item:kubejs:torchflower_stem",
+    "item:minecraft:cactus",
+    "item:evilcraft:undead_leaves",
+    "item:evilcraft:werewolf_fur",
+    "item:evilcraft:bucket_poison",
+    "item:evilcraft:biome_extract{biomeKey:\"minecraft:stony_peaks\"}",
+    "item:gtceu:magnetic_iron_rod",
+    "item:gtceu:makeshift_rubber_plate",
+    "item:torchmaster:frozen_pearl",
+    "item:gtceu:pyrolyse_oven",
+    {
+      "type": "fluid",
+      "id": "gtceu:fermented_biomass",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:ethanol",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:ethylene",
+      "amount": 144
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:polyethylene",
+      "amount": 144
+    },
+    "item:gtceu:diode",
+    {
+      "type": "tag",
+      "registry": "minecraft:item",
+      "id": "gtceu:diodes",
+      "amount": 4
+    },
+    "item:gtceu:plastic_printed_circuit_board",
+    "item:gtceu:plastic_circuit_board",
     "item:advanced_ae:import_export_bus_part",
     "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:silky\"}}",
     {
@@ -16,10 +401,8 @@
       "uid": "beeingredient:productivebees:sticky_resin"
     },
     "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:sticky_resin\"}}",
-    "item:gtceu:sticky_resin",
     "item:productivebees:spawn_egg_configurable_bee{EntityTag:{type:\"productivebees:sticky_resin\"}}",
     "item:productivebees:spawn_egg_configurable_bee{EntityTag:{type:\"productivebees:brass\"}}",
-    "item:ae2_overclocked:parallel_card_1024x",
     "item:deepwaters:deepslate_round",
     "item:deepwaters:deepslate_ornament",
     "item:deepwaters:deepslate_vase",
@@ -38,11 +421,6 @@
     "item:deepwaters:manowar_hoe{Damage:0}",
     "item:deepwaters:manowar_axe{Damage:0}",
     "item:deepwaters:blackpearl",
-    {
-      "type": "item",
-      "id": "unusual_prehistory:organic_ooze",
-      "amount": 62
-    },
     "item:unusual_prehistory:carnotaurus_egg",
     "item:unusual_prehistory:polished_petrified_wood_stairs",
     "item:unusual_prehistory:jawless_fish_roe",
@@ -51,8 +429,6 @@
     "item:gtceu:solar_panel",
     "item:gtceu:ulv_solar_panel",
     "item:gtceu:lv_solar_panel",
-    "item:ad_astra:photovoltaic_etrium_cell",
-    "item:ad_astra:solar_panel",
     "item:cyber_ware_port:component_microelectric",
     "item:cyber_ware_port:brain_upgrades_matrix",
     "item:cyber_ware_port:skin_upgrades_solar_skin",
@@ -158,22 +534,9 @@
     "item:advanced_ae:quantum_storage_128",
     "item:advanced_ae:quantum_storage_256",
     "item:advanced_ae:quantum_core",
-    "item:ae2_overclocked:parallel_card_64x",
-    "item:ae2_overclocked:parallel_card_8x",
-    "item:ae2_overclocked:parallel_card",
     "item:gtceu:lime_glass_lens",
     "item:gtceu:borosilicate_glass_ingot",
     "#item:ad_astra:steel_ingots",
-    "item:gtceu:steel_plate",
-    "#item:ad_astra:steel_plates",
-    "item:gtceu:empty_mold",
-    {
-      "type": "item",
-      "id": "gtceu:ball_casting_mold",
-      "remainder": "item:gtceu:ball_casting_mold"
-    },
-    "item:kubejs:hot_glass",
-    "item:gtceu:glass_dust",
     {
       "type": "fluid",
       "id": "productivebees:honey",
@@ -196,11 +559,6 @@
     "item:gtceu:naquadah_plate",
     "item:gtceu:naquadah_single_wire",
     "item:gtceu:naquadah_single_cable",
-    {
-      "type": "fluid",
-      "id": "gtceu:naquadah",
-      "amount": 144
-    },
     "item:gtceu:trinium_coil_block",
     {
       "type": "item",
@@ -244,19 +602,7 @@
     },
     {
       "type": "jemi",
-      "uid": "beeingredient:productivebees:quarry_bee"
-    },
-    {
-      "type": "jemi",
       "uid": "beeingredient:productivebees:brass"
-    },
-    {
-      "type": "jemi",
-      "uid": "beeingredient:productivebees:leafcutter_bee"
-    },
-    {
-      "type": "jemi",
-      "uid": "beeingredient:productivebees:coal"
     },
     {
       "type": "jemi",
@@ -325,8 +671,6 @@
     "item:gtceu:raw_crystal_chip",
     "item:gtceu:engraved_crystal_chip",
     "item:gtceu:copper_single_wire",
-    "item:gtceu:vacuum_tube",
-    "item:gtceu:basic_electronic_circuit",
     "item:gtceu:nano_cpu_wafer",
     "item:gtceu:rubber_gloves",
     {
@@ -334,24 +678,7 @@
       "id": "gtceu:ammonia",
       "amount": 7
     },
-    {
-      "type": "fluid",
-      "id": "gtceu:preserved_latex",
-      "amount": 1000
-    },
-    {
-      "type": "item",
-      "id": "gtceu:raw_rubber_dust",
-      "amount": 2
-    },
-    {
-      "type": "item",
-      "id": "gtceu:rubber_compound_dust",
-      "amount": 4
-    },
-    "item:gtceu:rubber_dust",
     "item:gtceu:styrene_butadiene_rubber_ingot",
-    "item:gtceu:makeshift_rubber_plate",
     "item:gtceu:makeshift_rubber_ingot",
     "item:gtceu:makeshift_rubber_dust",
     "item:gtceu:tiny_makeshift_rubber_dust",
@@ -403,11 +730,6 @@
     },
     "item:gtceu:naquadah_alloy_ingot",
     "item:sgjourney:milky_way_dhd{BlockEntityTag:{Energy:0L,Inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:large_control_crystal\"},{Count:1b,Slot:1,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:2,id:\"sgjourney:communication_crystal\",tag:{Frequency:0}},{Count:1b,Slot:3,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:5,id:\"sgjourney:energy_crystal\",tag:{Energy:0}},{Count:1b,Slot:7,id:\"sgjourney:transfer_crystal\",tag:{TransferLimit:2500L}}],Size:9},energy_inventory:{Items:[{Count:1b,Slot:0,id:\"sgjourney:fusion_core\"}],Size:2},id:\"sgjourney:milky_way_dhd\"}}",
-    "item:gtceu:purified_naquadah_ore",
-    "#item:forge:purified_ores/naquadah",
-    "item:sgjourney:pure_naquadah_block",
-    "item:sgjourney:pure_naquadah",
-    "item:sgjourney:naquadah",
     "item:sgjourney:stargate_variant_crystal",
     "item:sgjourney:stargate_variant_crystal{Variant:\"sgjourney:pegasus_atlantis\"}",
     "item:sgjourney:naquadah_alloy_iris{durability:8192}",
@@ -425,10 +747,6 @@
     {
       "type": "jemi",
       "uid": "beeingredient:productivebees:tin"
-    },
-    {
-      "type": "jemi",
-      "uid": "beeingredient:productivebees:crystalline"
     },
     {
       "type": "jemi",
@@ -455,7 +773,6 @@
     "item:cyber_ware_port:dense_battery",
     "item:cyber_ware_port:component_box",
     "item:cyber_ware_port:cyber_wither_skeleton_skull",
-    "item:cyber_ware_port:lungs_upgrades_hyperoxygenation",
     "item:cyber_ware_port:blueprint{targetItem:\"cyber_ware_port:heart_upgrades_platelets\"}",
     "item:cyber_ware_port:heart_upgrades_platelets",
     "item:cyber_ware_port:cyberheart",
@@ -465,15 +782,9 @@
     "item:cyber_ware_port:heart_upgrades_coupler",
     "item:cyber_ware_port:brain_upgrades_ender_jammer",
     "item:cyber_ware_port:heart_upgrades_defibrillator",
-    "item:kubejs:redstone_crystal",
-    "item:kubejs:redstone_seed",
     "item:kubejs:primitive_sieve",
-    "item:kubejs:plant_fiber_mesh",
-    "item:kubejs:plant_fiber",
-    "item:kubejs:torchflower_stem",
     "item:minecraft:torchflower",
-    "item:advanced_ae:quantum_processor",
-    "item:ae2_overclocked:parallel_card_max"
+    "item:advanced_ae:quantum_processor"
   ],
   "craft_history": [],
   "recipe_defaults": {

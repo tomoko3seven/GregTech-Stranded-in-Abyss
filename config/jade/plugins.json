@@ -2,6 +2,10 @@
   "framedblocks": {
     "framed_item_frame": true
   },
+  "evilcraft": {
+    "box_of_eternal_closure": true,
+    "broom": true
+  },
   "enderchests": {
     "hud": true
   },
