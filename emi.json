@@ -1,6 +1,19 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:deepwaters:fopal",
+    "item:deepwaters:fopal_block",
+    "item:deepwaters:manowar_hoe{Damage:0}",
+    "item:deepwaters:manowar_axe{Damage:0}",
+    "item:deepwaters:blackpearl",
+    {
+      "type": "item",
+      "id": "unusual_prehistory:organic_ooze",
+      "amount": 62
+    },
+    "item:unusual_prehistory:carnotaurus_egg",
+    "item:unusual_prehistory:polished_petrified_wood_stairs",
+    "item:unusual_prehistory:jawless_fish_roe",
     "item:gtceu:double_silver_plate",
     "item:gtceu:hp_steam_solar_boiler",
     "item:gtceu:solar_panel",
