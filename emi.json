@@ -1,6 +1,38 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:advanced_ae:import_export_bus_part",
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:silky\"}}",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:silky"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:resin_bee"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:sticky_resin"
+    },
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:sticky_resin\"}}",
+    "item:gtceu:sticky_resin",
+    "item:productivebees:spawn_egg_configurable_bee{EntityTag:{type:\"productivebees:sticky_resin\"}}",
+    "item:productivebees:spawn_egg_configurable_bee{EntityTag:{type:\"productivebees:brass\"}}",
+    "item:ae2_overclocked:parallel_card_1024x",
+    "item:deepwaters:deepslate_round",
+    "item:deepwaters:deepslate_ornament",
+    "item:deepwaters:deepslate_vase",
+    "item:deepwaters:anemone_in_vase",
+    "item:deepwaters:s_coral_in_vase",
+    "item:deepwaters:coralsmall_blue",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:sculk"
+    },
+    "item:minecraft:sculk",
+    "item:cyber_ware_port:component_fullerene",
+    "item:holoinventoryrevived:holo_glasses{Damage:0}",
     "item:deepwaters:fopal",
     "item:deepwaters:fopal_block",
     "item:deepwaters:manowar_hoe{Damage:0}",
@@ -126,7 +158,6 @@
     "item:advanced_ae:quantum_storage_128",
     "item:advanced_ae:quantum_storage_256",
     "item:advanced_ae:quantum_core",
-    "item:ae2_overclocked:parallel_card_1024x",
     "item:ae2_overclocked:parallel_card_64x",
     "item:ae2_overclocked:parallel_card_8x",
     "item:ae2_overclocked:parallel_card",
