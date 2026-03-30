@@ -5,7 +5,9 @@ StartupEvents.registry('item', event => {
     event.create('torchflower_stem');
     event.create('plant_fiber');
     event.create('plant_fiber_mesh');
-    event.create('primitive_sieve');
+    event.create('primitive_sieve')
+         .displayName("Primitive Sieve")
+    .texture("kubejs:item/mesh_item")
 
     event.create('hot_glass');
 

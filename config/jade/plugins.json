@@ -123,6 +123,9 @@
     "bee_attributes": true,
     "productive_bee": true
   },
+  "modularrouters": {
+    "router": true
+  },
   "jadeaddons": {
     "equipment_requirement": ""
   },

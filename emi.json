@@ -3,10 +3,192 @@
     {
       "stack": "item:gtceu:good_electronic_circuit",
       "recipe": "gtceu:shaped/electronic_circuit_mv"
+    },
+    {
+      "stack": "item:modularrouters:activator_module"
     }
   ],
   "lookup_history": [
+    "item:gtceu:test_metal_dust",
+    "item:gtceu:test_metal_block",
+    "item:gtceu:test_metal_ingot",
+    "item:holoinventoryrevived:holo_glasses{Damage:0}",
+    "item:cyber_ware_port:cybereye_upgrades_night_vision",
+    "item:modularrouters:activator_module",
+    {
+      "type": "item",
+      "id": "gtceu:chalcopyrite_dust",
+      "amount": 6
+    },
+    {
+      "type": "item",
+      "id": "gtceu:chalcocite_dust",
+      "amount": 4
+    },
     "item:gtceu:good_electronic_circuit",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:experience"
+    },
+    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:experience\"}}",
+    {
+      "type": "fluid",
+      "id": "sophisticatedcore:xp_still",
+      "amount": 250
+    },
+    "item:minecraft:experience_bottle",
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:sweat_bee"
+    },
+    {
+      "type": "jemi",
+      "uid": "beeingredient:productivebees:pepto_bismol"
+    },
+    "item:gtceu:arsenic_dust",
+    "item:gtceu:gallium_arsenide_dust",
+    "item:gtceu:small_gallium_arsenide_dust",
+    "item:gtceu:diode",
+    "item:ae2:fluix_dust",
+    "item:ae2:formation_core",
+    "item:ae2:export_bus",
+    "item:ad_astra:gas_tank",
+    "item:ad_astra:large_gas_tank",
+    "item:ad_astra:zip_gun{}",
+    "item:ad_astra:fan",
+    "item:ad_astra:oxygen_sensor",
+    "item:ad_astra:space_suit{Damage:0}",
+    "item:ad_astra:netherite_space_suit{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:piston",
+      "amount": 2
+    },
+    "item:ad_astra:steel_ingot",
+    "#item:forge:plates/steel",
+    "item:minecraft:minecart",
+    "item:ad_astra:steel_plate",
+    "item:ad_astra:steel_nugget",
+    "item:gtceu:lv_machine_hull",
+    "item:gtceu:maintenance_hatch",
+    "item:gtceu:auto_maintenance_hatch",
+    "item:gtceu:large_combustion_engine",
+    "item:mo_bubbles:water_bubble",
+    "item:ad_astra:oxygen_loader",
+    "fluid:ad_astra:oxygen",
+    "#fluid:forge:oxygen",
+    "item:gtceu:iron_rod",
+    "item:gtceu:iron_plate",
+    "item:gtceu:steel_rod",
+    {
+      "type": "fluid",
+      "id": "gtceu:cetane_boosted_diesel",
+      "amount": 1000
+    },
+    "fluid:gtceu:diesel",
+    {
+      "type": "fluid",
+      "id": "ad_astra:cryo_fuel",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "ad_astra:fuel",
+      "amount": 0
+    },
+    {
+      "type": "tag",
+      "registry": "minecraft:fluid",
+      "id": "forge:oil",
+      "amount": 50
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:sulfuric_naphtha",
+      "amount": 20
+    },
+    {
+      "type": "fluid",
+      "id": "ad_astra:oil",
+      "amount": 0
+    },
+    {
+      "type": "tag",
+      "registry": "minecraft:fluid",
+      "id": "forge:hydrogen",
+      "amount": 2000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:americium_plasma",
+      "amount": 144
+    },
+    {
+      "type": "fluid",
+      "id": "ad_astra:hydrogen",
+      "amount": 0
+    },
+    "item:ad_astra:water_pump",
+    "item:ad_astra:compressor",
+    {
+      "type": "item",
+      "id": "gtceu:indium_tin_barium_titanium_cuprate_dust",
+      "amount": 16
+    },
+    "item:ad_astra:oxygen_bucket",
+    {
+      "type": "item",
+      "id": "gtceu:steel_dust",
+      "amount": 9
+    },
+    "item:ad_astra:steel_block",
+    "item:ad_astra:iron_plateblock",
+    "item:ad_astra:cheese_block",
+    "item:ad_astra:cheese",
+    "item:ad_astra:fuel_refinery",
+    "item:ad_astra:wrench",
+    "item:ad_astra:netherite_space_pants{Damage:0}",
+    "item:ad_astra:green_flag",
+    "item:ad_astra:oxygen_distributor",
+    "item:ad_astra:gravity_normalizer",
+    {
+      "type": "item",
+      "id": "ad_astra:cable_duct",
+      "amount": 2
+    },
+    "item:ad_astra:steel_cable",
+    "item:gtceu:steel_plate",
+    "item:gtceu:lv_arc_furnace",
+    "item:gtceu:steel_frame",
+    "item:gtceu:lv_autoclave",
+    "item:gtceu:magnetic_iron_rod",
+    "item:gtceu:lv_electric_motor",
+    "item:gtceu:lv_electric_pump",
+    "item:gtceu:vacuum_tube",
+    "item:gtceu:basic_electronic_circuit",
+    "item:ae2:facade{item:\"minecraft:cherry_log\"}",
+    "item:gtceu:ash_dust",
+    {
+      "type": "item",
+      "id": "gtceu:magnesia_dust",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "gtceu:magnesite_dust",
+      "amount": 5
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:carbon_dioxide",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "gtceu:formic_acid",
+      "amount": 75
+    },
+    "item:gtceu:coagulation_tank",
     "#item:gtceu:circuits/mv",
     "item:gtceu:electric_jetpack{Charge:1000000L}",
     "item:gtceu:mv_fluid_drilling_rig",
@@ -17,10 +199,8 @@
     },
     "item:productivebees:petrified_honey",
     "item:productivebees:magenta_petrified_honey",
-    "item:gtceu:steel_frame",
     "item:gtceu:annealed_copper_ingot",
     "item:cyber_ware_port:lungs_upgrades_hyperoxygenation",
-    "item:mo_bubbles:water_bubble",
     "item:gtceu:wood_plate",
     "item:gtceu:opv_machine_hull",
     {
@@ -35,20 +215,6 @@
     "item:gtceu:multi_smelter",
     "item:ad_astra:glowing_steel_pillar",
     "item:gtceu:steel_plate",
-    "#item:ad_astra:steel_plates",
-    "item:minecraft:minecart",
-    "item:ad_astra:steel_plate",
-    {
-      "type": "fluid",
-      "id": "sophisticatedcore:xp_still",
-      "amount": 250
-    },
-    "item:minecraft:experience_bottle",
-    "item:productivebees:configurable_honeycomb{EntityTag:{type:\"productivebees:experience\"}}",
-    {
-      "type": "jemi",
-      "uid": "beeingredient:productivebees:experience"
-    },
     {
       "type": "jemi",
       "uid": "beeingredient:productivebees:emerald"
@@ -150,7 +316,6 @@
     "item:gtceu:sticky_resin",
     "item:gtceu:resin_circuit_board",
     "item:gtceu:resin_printed_circuit_board",
-    "item:gtceu:basic_electronic_circuit",
     "item:gtceu:empty_mold",
     {
       "type": "item",
@@ -158,7 +323,6 @@
       "remainder": "item:gtceu:ball_casting_mold"
     },
     "item:gtceu:glass_tube",
-    "item:gtceu:vacuum_tube",
     "item:ad_astra:steel_plating",
     "item:ad_astra:steel_pillar",
     "item:megacells:sky_steel_ingot",
@@ -353,7 +517,6 @@
     "item:evilcraft:werewolf_fur",
     "item:evilcraft:bucket_poison",
     "item:evilcraft:biome_extract{biomeKey:\"minecraft:stony_peaks\"}",
-    "item:gtceu:magnetic_iron_rod",
     "item:gtceu:makeshift_rubber_plate",
     "item:torchmaster:frozen_pearl",
     "item:gtceu:pyrolyse_oven",
@@ -377,7 +540,6 @@
       "id": "gtceu:polyethylene",
       "amount": 144
     },
-    "item:gtceu:diode",
     {
       "type": "tag",
       "registry": "minecraft:item",
@@ -415,7 +577,6 @@
     },
     "item:minecraft:sculk",
     "item:cyber_ware_port:component_fullerene",
-    "item:holoinventoryrevived:holo_glasses{Damage:0}",
     "item:deepwaters:fopal",
     "item:deepwaters:fopal_block",
     "item:deepwaters:manowar_hoe{Damage:0}",
@@ -536,7 +697,7 @@
     "item:advanced_ae:quantum_core",
     "item:gtceu:lime_glass_lens",
     "item:gtceu:borosilicate_glass_ingot",
-    "#item:ad_astra:steel_ingots",
+    "item:gtceu:steel_ingot",
     {
       "type": "fluid",
       "id": "productivebees:honey",

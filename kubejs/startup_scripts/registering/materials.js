@@ -63,4 +63,12 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
         .liquid(9182762)
         .formula('§kl§rStMa§kl§r')
         .color(0xffffff)
+        
+        event.create('test_metal')
+        .ingot()
+        .block()
+        .liquid()
+        .formula('femboy')
+        .color(0x953958)
+        .iconSet('superconductor')
 })

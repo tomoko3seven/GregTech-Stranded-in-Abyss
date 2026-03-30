@@ -25,4 +25,7 @@ GTCEuStartupEvents.registry('gtceu:material_icon_set', event => {
 
     event.create('paradoxium')
         .parent('metallic')
+
+     event.create('superconductor')
+        .parent('metallic')
 })
