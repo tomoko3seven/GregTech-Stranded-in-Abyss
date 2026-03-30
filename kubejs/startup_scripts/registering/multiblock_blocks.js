@@ -5,7 +5,7 @@ StartupEvents.registry('block', event => {
             .woodSoundType()
             .hardness(0.5)
             .resistance(0.5)
-            .requiresTool('axe', 0)
+            .requiresTool('minecraft:axe', 0)
             .transparent()
             .defaultTranslucent()
 

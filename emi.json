@@ -10,8 +10,20 @@
   ],
   "lookup_history": [
     "item:gtceu:test_metal_dust",
+    "item:gtceu:tiny_test_metal_dust",
+    {
+      "type": "item",
+      "id": "gtceu:test_metal_nugget",
+      "amount": 9
+    },
+    {
+      "type": "item",
+      "id": "gtceu:test_metal_ingot",
+      "amount": 64
+    },
+    "item:kubejs:redstone_seed",
+    "item:kubejs:primitive_sieve",
     "item:gtceu:test_metal_block",
-    "item:gtceu:test_metal_ingot",
     "item:holoinventoryrevived:holo_glasses{Damage:0}",
     "item:cyber_ware_port:cybereye_upgrades_night_vision",
     "item:modularrouters:activator_module",
@@ -509,7 +521,6 @@
     "item:megacells:decompression_module",
     "item:kubejs:plant_fiber_mesh",
     "item:kubejs:redstone_crystal",
-    "item:kubejs:redstone_seed",
     "item:kubejs:plant_fiber",
     "item:kubejs:torchflower_stem",
     "item:minecraft:cactus",
@@ -943,7 +954,6 @@
     "item:cyber_ware_port:heart_upgrades_coupler",
     "item:cyber_ware_port:brain_upgrades_ender_jammer",
     "item:cyber_ware_port:heart_upgrades_defibrillator",
-    "item:kubejs:primitive_sieve",
     "item:minecraft:torchflower",
     "item:advanced_ae:quantum_processor"
   ],

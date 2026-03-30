@@ -66,7 +66,6 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
         
         event.create('test_metal')
         .ingot()
-        .block()
         .liquid()
         .formula('femboy')
         .color(0x953958)
