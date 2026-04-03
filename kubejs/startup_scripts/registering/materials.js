@@ -70,4 +70,10 @@ GTCEuStartupEvents.registry('gtceu:material', event => {
         .formula('femboy')
         .color(0x953958)
         .iconSet('superconductor')
+        event.create('metallic sludge')
+
+        .liquid()
+        .formula('?')
+        .color(0x5a6c66)
+        .iconSet('dull')
 })
